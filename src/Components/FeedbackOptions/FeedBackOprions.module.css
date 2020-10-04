@@ -1,0 +1,10 @@
+.bth{
+    margin: 5px;
+    padding: 3px 26px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.bth:hover{
+    background-color: blanchedalmond;
+}
